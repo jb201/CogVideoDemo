@@ -12,4 +12,4 @@ It also emplyos the Speech Service to correlate transcribed speech to emotion ov
 
 This demo is to illustrate potential uses of Databricks with cogntive services and custom modeling algorithms.  
 
-It will not to kept up to date.   
+It may not be kept up to date.   
