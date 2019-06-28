@@ -1,5 +1,7 @@
 # Databricks notebook source
-# We should store this in a databrick secret 
+# REPLACE the sas TOKEN with your newly created SAS token from Azure
+# Replace the BLOBCONTAINERNAME and STORAGEACCOUNTNAME 
+
 mounts = dbutils.fs.mounts()
 mountPoint = next((x for x in mounts if x.mountPoint == '/mnt/v/'), None)
 print (mountPoint)
