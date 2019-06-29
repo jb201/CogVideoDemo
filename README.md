@@ -11,5 +11,3 @@ The demo builds a pipeline that analyzes videos (without the video indexer) by u
 It also emplyos the Speech Service to correlate transcribed speech to emotion over time.   
 
 This demo is to illustrate potential uses of Databricks with cogntive services and custom modeling algorithms.  
-
-It may not be kept up to date.   
